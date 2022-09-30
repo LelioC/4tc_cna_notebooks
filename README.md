@@ -14,6 +14,6 @@ Run a cloud instance of Jupyter Lab by clicking on [![Binder](https://mybinder.o
 | Exercise | Bayes | ROC and Neyman-Pearson |
 | -------- | ----- | ---------------------- |
 | Gaussian mean | 🆗 | 🆗 |
-| Gaussian variance | 🆗 | ❌ |
-| Poisson parameter | 🆗 | ❌ |
+| Gaussian variance | 🆗 | 🆗 |
+| Poisson parameter | 🆗 | 🆗 |
 | Binary channel | 🆗 | ❌ |
