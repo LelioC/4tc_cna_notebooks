@@ -16,4 +16,4 @@ Run a cloud instance of Jupyter Lab by clicking on [![Binder](https://mybinder.o
 | Gaussian mean | 🆗 | 🆗 |
 | Gaussian variance | 🆗 | 🆗 |
 | Poisson parameter | 🆗 | 🆗 |
-| Binary channel | 🆗 | ❌ |
+| Binary channel | 🆗 | 🆗 |
